@@ -23,7 +23,7 @@ Los de monitores son apropiados para su uso en espacios pequeños, como los cuar
 
 Una red de sensores de CO<sub>2</sub> resulta más apropiada para monitorizar grandes espacios porque este sistema permitiría que sus usuarios obtengan información sobre la calidad del aire de manera remota mediante una aplicación móvil; así, los visitante podrían conocer la calidad del aire, previo a sus llegada. Además, los datos colectados por el sistema permitiría a los administradores del área tomar medidas más acertadas sobre el aforo, también podrían dirigir el flujo de personas a áreas ventiladas o impedir el paso en zonas donde la calidad del aire no es la apropiada. Inclusive, los datos capturados por la red de sensores podrían utilizarse para correlacionar los reportes de contagios con las áreas con ventilación inapropiada.
 
-La situación de emergencia sanitaria que se experimenta actualmente requiere de sistemas que coadyuven con las medidas de prevención de infecciones respiratorias: la red de sensores que proponemos en esta propuesta de proyecto justo busca ser parte de las soluciones que mitiguen los problemas relacionados con la pandemia.
+La situación de emergencia sanitaria que se experimenta actualmente requiere de sistemas que coadyuven con las medidas de prevención de infecciones respiratorias: la red de sensores que proponemos busca ser parte de las soluciones que mitiguen los problemas relacionados con la pandemia.
 
 A continuación, relatamos exactamente el problema que buscamos resolver.
 
