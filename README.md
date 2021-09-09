@@ -58,7 +58,7 @@ La realización de este proyecto requiere del uso de las tecnologías de la Inte
 
 Los datos que el sistema capture serán procesados y presentados de tal manera que sea sencillo tomar decisiones sobre qué áreas ventilar y cuándo hacerlo. Asimismo, los visitantes del área de observación podrían decidir si visitar o no uno los lugares específicos a los que se dirigen sin la necesidad de estar ahí presentes.
 
-El sistema de monitorización sería diseñado para que el software del agente, la aplicación web y los sensores remotos puedan ser actualizados.Asimismo, sería necesario dar mantenimiento preventivo y correctivo a los sensores remotos para asegurar que estos están operando correctamente. Estas dos necesidades permitirían seguir obteniendo capital después de que la venta de la red de sensores.
+El sistema de monitorización sería diseñado para que el software del agente, la aplicación web y los sensores remotos puedan ser actualizados. Asimismo, sería necesario dar mantenimiento preventivo y correctivo a los sensores remotos para asegurar que estos están operando correctamente. Estas dos necesidades permitirían seguir obteniendo capital después de que la venta de la red de sensores.
 
 ## Descripción del escenario de aplicación
 
